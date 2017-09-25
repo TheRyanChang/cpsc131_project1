@@ -14,5 +14,8 @@ public:
 private:
 	// any private member variables and methods go here
 	// TO BE COMPLETED
-
+	string ItemName;
+	string ItemCode;
+	double ItemPrice;
+	bool ItemTax;
 };
