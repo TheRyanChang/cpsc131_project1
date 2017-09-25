@@ -6,6 +6,10 @@ PriceListItem::PriceListItem(const string &itemName, const string &code, double 
 
 PriceListItem::PriceListItem() {
 	// TO BE COMPLETED
+	ItemName = "Apples";
+	ItemCode = 1000;
+	ItemPrice = 1.29;
+	ItemTax = true;
 
 }
 
